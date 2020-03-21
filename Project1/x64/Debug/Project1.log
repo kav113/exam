@@ -1,0 +1,4 @@
+﻿  ExpressOrder.cpp
+d:\step\it\выполненные\экзамен\project1\project1\expressorder.cpp(74): warning C4717: 'operator<<': recursive on all control paths, function will cause runtime stack overflow
+d:\step\it\выполненные\экзамен\project1\project1\expressorder.cpp(80): warning C4717: 'operator>>': recursive on all control paths, function will cause runtime stack overflow
+  Project1.vcxproj -> D:\step\it\Выполненные\экзамен\Project1\x64\Debug\Project1.exe
